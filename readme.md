@@ -1,20 +1,23 @@
-# This is large heading.
+# Ravi Rathore
 
-## This is small heading.
+### Geoloc
 
-This is just for **testing** *purposes*.
-```
-this is for code
-```
-- Bullet 1.
-- Bullet 2.
-- Bullet infinity.
+I live in Hoboken, NJ in United states of America.
 
-1. ordered bullet 1.
-2. ordered bullet 2.
-3. ordered buller 3.
+## Favorite Language
 
-#what is it suppose to do I dont really know
+I usually work with 
+- C++ 
+- Java.
 
-let me add [a link](https://acloud.guru/learn/coding-for-cloud-101).
-let me add ![an image](https://pngimage.net/wp-content/uploads/2018/06/interstellar-png-2.jpg).
+on 
+
+1. KDE neon
+
+## Markdown is pretty good.
+
+There is [a way](http://google.com) to solve anything.
+
+
+
+
